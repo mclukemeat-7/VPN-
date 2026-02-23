@@ -1,2 +1,2 @@
-# VPN-
-trying to make a vpn
+# vpn working for chromebook os and linux
+This is my first time give me advice im not very good 
