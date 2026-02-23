@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "VPN Connect",
+  "version": "1.0",
+  "description": "VPN extension for Chromebook",
+  "permissions": ["tabs", "storage"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": ["<all_urls>"]
+}
