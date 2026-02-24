@@ -1,0 +1,12 @@
+{
+  "name": "vpn-connect",
+  "version": "1.0.0",
+  "description": "Local helper to serve the VPN extension files for development",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
